@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Gingerbread Theme</string>
-	<string name="helper_theme_title">Gingerbread Theme</string>
-	<string name="lp_theme_title">Gingerbread Theme</string>
-	<string name="adw_theme_title">Gingerbread Theme</string>
-	<string name="dock_theme_title">Gingerbread Theme</string>
-	<string name="cm_theme_name">Gingerbread Theme</string>
-	<string name="cm_theme_title">Gingerbread Theme</string>
-	<string name="wp_theme_title">Gingerbread Theme</string>
-    <string name="theme_name">Gingerbread Theme</string>
-    <string name="style_appearance_name">Gingerbread Theme</string>
-    <string name="author">Haxzamatic</string>
-    <string name="copyright">Haxzamatic</string>
+    <string name="email">Email me</string>
+    <string name="twitter">Twitter</string>
+    <string name="apex_theme_title">pYrplerabbYt</string>
+    <string name="weatherpanel_slash">/</string>
+    <string name="accessibility_settings_button">System settings.</string>
+    <string name="accessibility_clear_all">Clear all notifications.</string>
+    <string name="status_bar_no_notifications_title">No notifications</string>
+    <string name="app_name">pYrplerabbYt</string>
+    <string name="helper_theme_title">pYrplerabbYt</string>
+    <string name="lp_theme_title">pYrplerabbYt</string>
+    <string name="adw_theme_title">pYrplerabbYt</string>
+    <string name="dock_theme_title">pYrplerabbYt</string>
+    <string name="cm_theme_name">pYrplerabbYt</string>
+    <string name="cm_theme_title">pYrplerabbYt</string>
+    <string name="wp_theme_title">pYrplerabbYt</string>
+    <string name="theme_name">pYrplerabbYt</string>
+    <string name="style_appearance_name">pYrplerabbYt</string>
+    <string name="author">rabbitfootTUN_SD</string>
+    <string name="copyright">rabbitfootTUN_SD</string>
     <string name="apply">Apply Wallpaper</string>
-	<string name="theme_title_text">Gingerbread Theme</string>
-	<string name="theme_desc_text">A Gingerbread Theme</string>
-	<string name="tv_theme_header_text">Messages</string>
-	<string name="tv_theme_footer_text">All Threads</string>
-	<string name="cmtheme">Apply T-Mobile Theme</string>
+    <string name="theme_title_text">pYrplerabbYt</string>
+    <string name="theme_desc_text">A pYrplerabbYt</string>
+    <string name="tv_theme_header_text">Messages</string>
+    <string name="tv_theme_footer_text">All Threads</string>
+    <string name="cmtheme">Apply T-Mobile Theme</string>
     <string name="adwtheme">Apply ADW Theme</string>
     <string name="adwsettings">ADW Settings</string>
     <string name="wallpaper">Apply Wallpaper</string>
@@ -25,5 +32,13 @@
     <string name="whoami">Developer Webpage</string>
     <string name="marketinfo">Rate Theme</string>
     <string name="moredev">Get More Apps</string>
-    <string name="lpsetting">Launcher Pro Settings</string>
+    <string name="lpsetting">ApeX Settings</string>
+    <string name="theme_title">pYrplerabbYt</string>
+    <string name="theme_description">This is a beautiful theme for ADW Launcher.&lt;br/> Keep up to date with the latest info through &lt;a href=http://www.twitter.com/>Twitter&lt;/a></string>
+    <string name="config_desktop_indicator_type">1</string>
+    <string name="main_dock_style">2</string>
+    <string name="authorName">rabbitfootTUN_SD</string>
+    <string name="developerName">rabbitfootTUN_SD</string>
+    <string name="authorLink">http://rootzwiki.com/topic/23506-themet-mobile-theme-chooser-for-xhdpi-hdpiaokp-b35-the-pyrple-rabbyt-dark-sexy-pleasures-await/</string>
+    <string name="default_wallpaper">theme_wallpaper_3</string>
 </resources>

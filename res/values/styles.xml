@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <style name="Gingerbread" parent="@android:style/Theme" />
-	<style name="TallTitleBarTheme" parent="@android:style/Theme.NoTitleBar">
-        <item name="android:windowContentOverlay">@null</item>
-		<item name="android:background">@drawable/com_android_settings_list_dark_bg</item>
-    </style>
-	<style name="TextAppearance.StatusBar.EventContent.Title" parent="@android:style/Animation.OptionsPanel">
+    <style name="TextAppearance.Mms" parent="@android:style/Theme">
         <item name="android:textSize">16.0sp</item>
-        <item name="android:textStyle">bold</item>
+        <item name="android:textStyle">normal</item>
         <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHighlight">#ff8c00ff</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+        <item name="android:textColorLink">#ff8c00ff</item>
     </style>
-    <style name="TextAppearance.StatusBar.EventContent" parent="@android:style/Animation.OptionsPanel">
-        <item name="android:textSize">12.0sp</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">#ffffffff</item>
+    <style name="TextAppearance.StatusBar.Date" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff8c00ff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff8c00ff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.BatteryTextOnly" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff8c00ff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.PhoneTicker" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">#ff8c00ff</item>
     </style>
     <style name="Widget.ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar.Horizontal">
         <item name="android:progressDrawable">@drawable/frameworks_res_progress_horizontal</item>
@@ -21,10 +33,5 @@
     <style name="ProgressCustom" parent="@android:style/Theme">
         <item name="android:progressBarStyleHorizontal">@style/Widget.ProgressBar.Horizontal</item>
     </style>
-	<style name="NewsTicker" />
-    <style name="NewsTicker.Title" parent="@style/NewsTicker">
-        <item name="android:maxLines">2</item>
-		<item name="android:textColor">#ffffffff</item>
-    </style>
-    <style name="NewsTicker.Label" parent="@style/NewsTicker" />
+    <style name="pYrplerabbYt" parent="@android:style/Theme" />
 </resources>

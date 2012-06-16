@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/cyanogenmod_background">@drawable/theme_wallpaper</item>
+    <item name="drawable/pyramid_background">@drawable/homescreen</item>
 </resource-redirections>
